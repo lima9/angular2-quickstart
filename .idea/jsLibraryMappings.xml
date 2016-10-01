@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="JavaScriptLibraryMappings">
-    <file url="file://$PROJECT_DIR$" libraries="{Proof of Concept v.0.0.3/node_modules}" />
-    <file url="file://$PROJECT_DIR$/public" libraries="{Proof of Concept v.0.0.3/public/node_modules}" />
-  </component>
-</project>
